@@ -1,4 +1,4 @@
-TAE-And-Surf-Enhanced-v6-RESELL (legacy)
+TAE-And-Surf-Enhanced-v6-RESELL (legacy 2009)
 
 Enhanced Text Ad Exchange Advertising and Surf site script - 6th major version with resell rights.
 
